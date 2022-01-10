@@ -67,7 +67,7 @@ func initConfig() {
 		viper.SetConfigFile(cfgFile)
 	} else {
 		// Find home directory.
-		home, err := os.UserHomeDir()
+		home, err := os.Getwd()
 		cobra.CheckErr(err)
 
 		// Search config in home directory with name ".dockercli_clone" (without extension).

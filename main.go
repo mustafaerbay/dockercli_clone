@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "dockercli_clone/cmd"
+import "github.com/mustafaerbay/dockercli_clone/cmd"
 
 func main() {
 	cmd.Execute()
