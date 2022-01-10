@@ -1,0 +1,10 @@
+{
+    "go.inferGopath": false,
+    // "go.gopath": "/D/00erbay/projects/cer/main.go",
+    "go.toolsGopath": "D:\\00erbay\\projects\\dockercli_clone",
+    "go.testEnvVars": {
+        "GOOS": "windows",
+        "GOARCH": "386",
+        "GOROOT": "D:\\00erbay\\projects\\dockercli_clone"
+    }
+}
