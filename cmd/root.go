@@ -54,6 +54,7 @@ func init() {
 	// will be global for your application.
 
 	rootCmd.PersistentFlags().StringVar(&cfgFile, "config", "", "config file (default is $HOME/.dockercli_clone.yaml)")
+	rootCmd.PersistentFlags().StringVar(&cfgFile, "host_ip_list", "", "list of ip addresses to connect (default is $HOME/.dockercli_clone.yaml)")
 
 	// Cobra also supports local flags, which will only run
 	// when this action is called directly.

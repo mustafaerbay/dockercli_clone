@@ -1,3 +1,32 @@
-host_ip: 10.243.231.38
-host_username: root
-host_password: Huawei@123
+host_ip_list: "10.243.231.38 10.244.116.157"
+host_ip: "10.243.231.38"
+host_username: "root"
+host_password: "Huawei@123"
+host_public_key: |-
+    -----BEGIN RSA PRIVATE KEY-----
+    MIIEpAIBAAKCAQEA6bu6GP4sKHXUwpYBkgZdCZ7PuJN7XxD6wIfDKSksYyr4l8+V
+    3jOPdeR1c7CfFnhN3i+F5OcExNWft7OwKwnzSz++XTgwdFFg6dzvIcvcCiFmfkLx
+    pAZWvgntP3jwnkiI8OZJPFW5bn1YhQC9Fs31yz/D5hXgAju2JqN8z5qpCIEXPImL
+    sJxJkzbR68oDjvuaFoe5iQH1nPatZpNYAK7FZgHoay0CTN8QbNOtOOVKdQztKX8r
+    Ch4Kxh9wtnTZmuINJgOnKxheYgJ5XgqoikXhVxaWZAIHoquSJBJq2CcR5y4jWa56
+    2imCDD2RsekxNvaNbiRE8a83kqTk1dcn4wyA5wIDAQABAoIBAQCcmiD3+eSQP1KM
+    BYGL2yOe/H7khjwU2AWJ1eyWuXV6BCKHZJhfRmCKdsWS+/W7UmOpyGGHmpmBYDgh
+    Fw2j6IjQFCdxweIFLTknt9Wo6TPGvdY0JppMccrQjUoeSuO8yZCnB0RuXmlddDJI
+    +tO2Ycybn1+b23A5TtSeUs+fMVqrzLpIeXLuqGK1UMKvOs8yM/Pb9IBcCIDBFTbK
+    u/6DzYJQmLz2pkTimLfsSmThJLfnEx9GlKNkn7eAKOFCJEme6kU13rtu6m5NLbqp
+    VH4fyn/j84XxbSaRm/i2vHcDBd6gKMuNAMvAqKD3pfAfv0+kYaOxJFxjCHIqQ4MT
+    0Th+8gFRAoGBAP3CH1cVWwPwV1jpSWZgigh0no+/hIcT47wD33SRWT/WPTOZGOWg
+    yLK1acdjVU1EHUbqiq7KuV65Do6yS+NnIrhLm/0EfnCvKv+zZI7Ya0/LiHdIJVSY
+    ncDN7ejI50R5rK8uS+G985K2PnZ3kvDxZGNAYJgDTqMSD6JFPjYrl499AoGBAOvM
+    UVlwwelECCe5+pPM+xnKEQQZH8uw+bYAGW4QemQAvPF1EctZTVpFVAorjxLMejej
+    jFYieyn1cKzICucwPQEnwlaqa7lA0/RuSfDzyeVzDH7bYuuNSVpXAp/7j8grOIJZ
+    dtvwJP6q4Kmxt6z7UqmtvCJUaTOgBVeCr2Bq8IczAoGAU0lRi/2AX+yUXqRC6Q0q
+    gNf16uxLDSKkDmOfBd1m06L3d2X6W/PHq5ALZdvedXuzuEDmv7Pd348RjhhK/Bov
+    tRlr20GMVmPH0yEIEjJKFmiRI8VUK03kCRIN0eeOsFTXLrAdS7xSo4aZPbzFR7uS
+    3ViV247KUo9s/i+H2bO5DOkCgYEA6e1cMyg7J+j3UjoeTq0H27Dsqq0mLxTW1ulI
+    UToFwdo9mCn1SlDA/bJTyncmTJcRFMuq+PTiTWEStEcNEgh4LQI9uW7+yd13qUIV
+    Fvc0r+4wUlXh0B/tyrMRhpeyL/o46JBK661VdlUd5xvJRdJbUrxqLYCikbXKNuQO
+    is/s6aMCgYAc0cmDwpcnK4ce7On3OLjArIOGoi+FLMRSS9WwrZkgTJEQ6RPT8WRe
+    cePfUXh2vQ2ymUtBkiU8FJSKOGCSf7D1Mpkh3lNiYeaCr6MJGOVKZrMc3gQDBos8
+    cbZN1VRFOdrGkMucYZcc8CuRt4+yFH4ZcxlWs/NjMmMyuEdPfNlQmA==
+    -----END RSA PRIVATE KEY-----
